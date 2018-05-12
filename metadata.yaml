@@ -1,0 +1,32 @@
+_repo: Les--nigmes-de-l-Univers_38925
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38925-h/images/cover1.jpg
+creator:
+  author:
+    agent_name: Haeckel, Ernst
+    alias: Haeckel, Ernst Heinrich Philipp August
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '2037'
+    url: http://www.gutenberg.org/2009/agents/2037
+    wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2012-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38925'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life -- Origin'
+- !lcsh 'Monism'
+- !lcsh 'Evolution'
+- !lcsh 'Religion and science'
+- !lcc 'B'
+title: Les énigmes de l'Univers
+url: http://www.gutenberg.org/ebooks/38925
