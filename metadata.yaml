@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2037
     wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38925#Les--nigmes-de-l-Univers
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2012-02-18'
 gutenberg_type: Text
